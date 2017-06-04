@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2017\Projects\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.deps.json
+\\mac\home\documents\visual studio 2017\Projects\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.runtimeconfig.json
+\\mac\home\documents\visual studio 2017\Projects\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.runtimeconfig.dev.json
+\\mac\home\documents\visual studio 2017\Projects\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.dll
+\\mac\home\documents\visual studio 2017\Projects\ReactDemo\ReactDemo\obj\Debug\netcoreapp1.1\ReactDemo.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\ReactDemo\ReactDemo\obj\Debug\netcoreapp1.1\ReactDemo.AssemblyInfo.cs
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ReactDemo\ReactDemo\obj\Debug\netcoreapp1.1\ReactDemo.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ReactDemo\ReactDemo\obj\Debug\netcoreapp1.1\ReactDemo.pdb
