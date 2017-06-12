@@ -1,0 +1,10 @@
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\bin\Debug\netcoreapp1.1\MovieApp.deps.json
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\bin\Debug\netcoreapp1.1\MovieApp.runtimeconfig.json
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\bin\Debug\netcoreapp1.1\MovieApp.runtimeconfig.dev.json
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\bin\Debug\netcoreapp1.1\MovieApp.dll
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\bin\Debug\netcoreapp1.1\MovieApp.pdb
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\obj\Debug\netcoreapp1.1\MovieApp.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\obj\Debug\netcoreapp1.1\MovieApp.AssemblyInfo.cs
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\obj\Debug\netcoreapp1.1\MovieApp.dll
+\\mac\home\documents\visual studio 2017\Projects\MovieApp\MovieApp\obj\Debug\netcoreapp1.1\MovieApp.pdb
